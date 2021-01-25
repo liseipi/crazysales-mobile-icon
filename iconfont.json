@@ -1,10 +1,17 @@
 {
   "id": "947238",
-  "name": "shopprly",
+  "name": "h5-crazysales",
   "font_family": "spfont",
   "css_prefix_text": "icon-",
   "description": "",
   "glyphs": [
+    {
+      "icon_id": "19627574",
+      "name": "installments",
+      "font_class": "installments",
+      "unicode": "e6a8",
+      "unicode_decimal": 59048
+    },
     {
       "icon_id": "16771190",
       "name": "evaluate_2",
