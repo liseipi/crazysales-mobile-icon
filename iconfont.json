@@ -1,8 +1,8 @@
 {
   "id": "1532518",
   "name": "crazysales-app",
-  "font_family": "csiconfont",
-  "css_prefix_text": "csicon",
+  "font_family": "spfont",
+  "css_prefix_text": "icon-",
   "description": "crazysales web mobile app",
   "glyphs": [
     {
