@@ -1,429 +1,23 @@
 {
-  "id": "947238",
-  "name": "h5-crazysales",
-  "font_family": "spfont",
-  "css_prefix_text": "icon-",
-  "description": "",
+  "id": "1532518",
+  "name": "crazysales-app",
+  "font_family": "csiconfont",
+  "css_prefix_text": "csicon",
+  "description": "crazysales web mobile app",
   "glyphs": [
     {
-      "icon_id": "19627574",
-      "name": "installments",
-      "font_class": "installments",
-      "unicode": "e6a8",
-      "unicode_decimal": 59048
+      "icon_id": "12235095",
+      "name": "locator",
+      "font_class": "locator",
+      "unicode": "e651",
+      "unicode_decimal": 58961
     },
     {
-      "icon_id": "16771190",
-      "name": "evaluate_2",
-      "font_class": "evaluate_2",
-      "unicode": "e6a3",
-      "unicode_decimal": 59043
-    },
-    {
-      "icon_id": "16771053",
-      "name": "evaluate_1",
-      "font_class": "evaluate_1",
-      "unicode": "e6a2",
-      "unicode_decimal": 59042
-    },
-    {
-      "icon_id": "16483114",
-      "name": "wine",
-      "font_class": "sp931",
-      "unicode": "e6a1",
-      "unicode_decimal": 59041
-    },
-    {
-      "icon_id": "16093495",
-      "name": "verifycode",
-      "font_class": "verifycode",
-      "unicode": "e6a0",
-      "unicode_decimal": 59040
-    },
-    {
-      "icon_id": "15303223",
-      "name": "credit-card",
-      "font_class": "pay_19",
-      "unicode": "e69f",
-      "unicode_decimal": 59039
-    },
-    {
-      "icon_id": "15284619",
-      "name": "bill",
-      "font_class": "bill",
-      "unicode": "e69d",
-      "unicode_decimal": 59037
-    },
-    {
-      "icon_id": "14991212",
-      "name": "sca-icon_bpay",
-      "font_class": "pay_6",
-      "unicode": "e69c",
-      "unicode_decimal": 59036
-    },
-    {
-      "icon_id": "14990441",
-      "name": "sca_icon_poli",
-      "font_class": "pay_11",
-      "unicode": "e699",
-      "unicode_decimal": 59033
-    },
-    {
-      "icon_id": "14955224",
-      "name": "sca-icon_zip",
-      "font_class": "pay_29",
-      "unicode": "e690",
-      "unicode_decimal": 59024
-    },
-    {
-      "icon_id": "14955228",
-      "name": "sca-icons_afterpay",
-      "font_class": "pay_17",
-      "unicode": "e691",
-      "unicode_decimal": 59025
-    },
-    {
-      "icon_id": "14955229",
-      "name": "sca-icons_paypal",
-      "font_class": "pay_5",
-      "unicode": "e692",
-      "unicode_decimal": 59026
-    },
-    {
-      "icon_id": "14955230",
-      "name": "sca-icons_apple-pay",
-      "font_class": "sca-icons_apple-pay",
-      "unicode": "e693",
-      "unicode_decimal": 59027
-    },
-    {
-      "icon_id": "14955231",
-      "name": "sca-icons_american-express",
-      "font_class": "sca-icons_american-express",
-      "unicode": "e694",
-      "unicode_decimal": 59028
-    },
-    {
-      "icon_id": "14955232",
-      "name": "sca-icons_visa",
-      "font_class": "sca-icons_visa",
-      "unicode": "e695",
-      "unicode_decimal": 59029
-    },
-    {
-      "icon_id": "14955233",
-      "name": "sca-icons_mastercard",
-      "font_class": "sca-icons_mastercard",
-      "unicode": "e696",
-      "unicode_decimal": 59030
-    },
-    {
-      "icon_id": "14869834",
-      "name": "warning",
-      "font_class": "warning",
-      "unicode": "e68e",
-      "unicode_decimal": 59022
-    },
-    {
-      "icon_id": "13266745",
-      "name": "bags",
-      "font_class": "sp109",
-      "unicode": "e676",
-      "unicode_decimal": 58998
-    },
-    {
-      "icon_id": "14458026",
-      "name": "avatar",
-      "font_class": "avatar",
-      "unicode": "e68d",
-      "unicode_decimal": 59021
-    },
-    {
-      "icon_id": "14451487",
-      "name": "attributes",
-      "font_class": "attributes",
-      "unicode": "e68c",
-      "unicode_decimal": 59020
-    },
-    {
-      "icon_id": "8953252",
-      "name": "sort",
-      "font_class": "sort",
-      "unicode": "e839",
-      "unicode_decimal": 59449
-    },
-    {
-      "icon_id": "14350421",
-      "name": "share",
-      "font_class": "share",
-      "unicode": "e68a",
-      "unicode_decimal": 59018
-    },
-    {
-      "icon_id": "14350390",
-      "name": "history",
-      "font_class": "history",
-      "unicode": "e689",
-      "unicode_decimal": 59017
-    },
-    {
-      "icon_id": "9978514",
-      "name": "jewellery",
-      "font_class": "sp991",
-      "unicode": "e64d",
-      "unicode_decimal": 58957
-    },
-    {
-      "icon_id": "9682746",
-      "name": "avatar",
-      "font_class": "sp-avatar",
-      "unicode": "e64a",
-      "unicode_decimal": 58954
-    },
-    {
-      "icon_id": "9629578",
-      "name": "account",
-      "font_class": "sp-account",
-      "unicode": "e649",
-      "unicode_decimal": 58953
-    },
-    {
-      "icon_id": "9629521",
-      "name": "sales",
-      "font_class": "sp-sales",
-      "unicode": "e648",
-      "unicode_decimal": 58952
-    },
-    {
-      "icon_id": "9629295",
-      "name": "message",
-      "font_class": "sp-message",
-      "unicode": "e647",
-      "unicode_decimal": 58951
-    },
-    {
-      "icon_id": "9484889",
-      "name": "disconnect",
-      "font_class": "sp-disconnect",
-      "unicode": "e646",
-      "unicode_decimal": 58950
-    },
-    {
-      "icon_id": "9458031",
-      "name": "nothing",
-      "font_class": "sp-nothing",
-      "unicode": "e645",
-      "unicode_decimal": 58949
-    },
-    {
-      "icon_id": "8122303",
-      "name": "free-shipping",
-      "font_class": "sp-free-shipping",
-      "unicode": "e63b",
-      "unicode_decimal": 58939
-    },
-    {
-      "icon_id": "8121984",
-      "name": "creditcard",
-      "font_class": "sp-creditcard",
-      "unicode": "e642",
-      "unicode_decimal": 58946
-    },
-    {
-      "icon_id": "8121970",
-      "name": "paypal",
-      "font_class": "sp-paypal",
-      "unicode": "e641",
-      "unicode_decimal": 58945
-    },
-    {
-      "icon_id": "7458828",
-      "name": "pailie_two",
-      "font_class": "sp-pailie-two",
-      "unicode": "e63a",
-      "unicode_decimal": 58938
-    },
-    {
-      "icon_id": "7458819",
-      "name": "pailie_one",
-      "font_class": "sp-pailie-one",
-      "unicode": "e639",
-      "unicode_decimal": 58937
-    },
-    {
-      "icon_id": "7104313",
-      "name": "email",
-      "font_class": "sp-email",
-      "unicode": "e638",
-      "unicode_decimal": 58936
-    },
-    {
-      "icon_id": "7100023",
-      "name": "user",
-      "font_class": "sp-user",
-      "unicode": "e637",
-      "unicode_decimal": 58935
-    },
-    {
-      "icon_id": "7099642",
-      "name": "password",
-      "font_class": "sp-password",
-      "unicode": "e636",
-      "unicode_decimal": 58934
-    },
-    {
-      "icon_id": "7093842",
-      "name": "twitter",
-      "font_class": "sp-twitter",
-      "unicode": "e635",
-      "unicode_decimal": 58933
-    },
-    {
-      "icon_id": "7093837",
-      "name": "skype",
-      "font_class": "sp-skype",
-      "unicode": "e634",
-      "unicode_decimal": 58932
-    },
-    {
-      "icon_id": "7093832",
-      "name": "facebook",
-      "font_class": "sp-facebook",
-      "unicode": "e633",
-      "unicode_decimal": 58931
-    },
-    {
-      "icon_id": "7093807",
-      "name": "google",
-      "font_class": "sp-google",
-      "unicode": "e632",
-      "unicode_decimal": 58930
-    },
-    {
-      "icon_id": "7040548",
-      "name": "volume",
-      "font_class": "sp-volume",
-      "unicode": "e631",
-      "unicode_decimal": 58929
-    },
-    {
-      "icon_id": "7025554",
-      "name": "sold",
-      "font_class": "sp-sold",
-      "unicode": "e630",
-      "unicode_decimal": 58928
-    },
-    {
-      "icon_id": "6948947",
-      "name": "Toys",
-      "font_class": "sp2959",
-      "unicode": "e62f",
-      "unicode_decimal": 58927
-    },
-    {
-      "icon_id": "6948894",
-      "name": "Repair",
-      "font_class": "sp2957",
-      "unicode": "e62e",
-      "unicode_decimal": 58926
-    },
-    {
-      "icon_id": "6948884",
-      "name": "Pet",
-      "font_class": "sp73",
-      "unicode": "e62d",
-      "unicode_decimal": 58925
-    },
-    {
-      "icon_id": "6948881",
-      "name": "Outdoor",
-      "font_class": "sp334",
-      "unicode": "e62c",
-      "unicode_decimal": 58924
-    },
-    {
-      "icon_id": "6948874",
-      "name": "Musical",
-      "font_class": "sp35",
-      "unicode": "e62b",
-      "unicode_decimal": 58923
-    },
-    {
-      "icon_id": "6948866",
-      "name": "Lights",
-      "font_class": "sp3781",
-      "unicode": "e62a",
-      "unicode_decimal": 58922
-    },
-    {
-      "icon_id": "6948863",
-      "name": "it",
-      "font_class": "sp70",
-      "unicode": "e629",
-      "unicode_decimal": 58921
-    },
-    {
-      "icon_id": "6948842",
-      "name": "holiday",
-      "font_class": "sp2975",
-      "unicode": "e628",
-      "unicode_decimal": 58920
-    },
-    {
-      "icon_id": "6948835",
-      "name": "Health",
-      "font_class": "sp62",
-      "unicode": "e627",
-      "unicode_decimal": 58919
-    },
-    {
-      "icon_id": "6948822",
-      "name": "Gifts",
-      "font_class": "sp65",
-      "unicode": "e626",
-      "unicode_decimal": 58918
-    },
-    {
-      "icon_id": "6948816",
-      "name": "Gardening",
-      "font_class": "sp147",
-      "unicode": "e625",
-      "unicode_decimal": 58917
-    },
-    {
-      "icon_id": "6948796",
-      "name": "Furniture",
-      "font_class": "sp57",
-      "unicode": "e624",
-      "unicode_decimal": 58916
-    },
-    {
-      "icon_id": "6948791",
-      "name": "Fitness",
-      "font_class": "sp4",
-      "unicode": "e623",
-      "unicode_decimal": 58915
-    },
-    {
-      "icon_id": "6948777",
-      "name": "Electronics",
-      "font_class": "sp50",
-      "unicode": "e622",
-      "unicode_decimal": 58914
-    },
-    {
-      "icon_id": "6948757",
-      "name": "Clothing",
-      "font_class": "sp3657",
-      "unicode": "e621",
-      "unicode_decimal": 58913
-    },
-    {
-      "icon_id": "6948750",
-      "name": "Bedding",
-      "font_class": "sp258",
-      "unicode": "e620",
-      "unicode_decimal": 58912
+      "icon_id": "1293927",
+      "name": "scan",
+      "font_class": "scan",
+      "unicode": "e8f3",
+      "unicode_decimal": 59635
     },
     {
       "icon_id": "6948738",
@@ -433,11 +27,179 @@
       "unicode_decimal": 58911
     },
     {
-      "icon_id": "1293927",
-      "name": "scan",
-      "font_class": "scan",
-      "unicode": "e8f3",
-      "unicode_decimal": 59635
+      "icon_id": "6948750",
+      "name": "Bedding",
+      "font_class": "sp258",
+      "unicode": "e620",
+      "unicode_decimal": 58912
+    },
+    {
+      "icon_id": "6948757",
+      "name": "Clothing",
+      "font_class": "sp3657",
+      "unicode": "e621",
+      "unicode_decimal": 58913
+    },
+    {
+      "icon_id": "6948777",
+      "name": "Electronics",
+      "font_class": "sp50",
+      "unicode": "e622",
+      "unicode_decimal": 58914
+    },
+    {
+      "icon_id": "6948791",
+      "name": "Fitness",
+      "font_class": "sp4",
+      "unicode": "e623",
+      "unicode_decimal": 58915
+    },
+    {
+      "icon_id": "6948796",
+      "name": "Furniture",
+      "font_class": "sp57",
+      "unicode": "e624",
+      "unicode_decimal": 58916
+    },
+    {
+      "icon_id": "6948816",
+      "name": "Gardening",
+      "font_class": "sp147",
+      "unicode": "e625",
+      "unicode_decimal": 58917
+    },
+    {
+      "icon_id": "6948822",
+      "name": "Gifts",
+      "font_class": "sp65",
+      "unicode": "e626",
+      "unicode_decimal": 58918
+    },
+    {
+      "icon_id": "6948835",
+      "name": "Health",
+      "font_class": "sp62",
+      "unicode": "e627",
+      "unicode_decimal": 58919
+    },
+    {
+      "icon_id": "6948842",
+      "name": "holiday",
+      "font_class": "sp2975",
+      "unicode": "e628",
+      "unicode_decimal": 58920
+    },
+    {
+      "icon_id": "6948863",
+      "name": "it",
+      "font_class": "sp70",
+      "unicode": "e629",
+      "unicode_decimal": 58921
+    },
+    {
+      "icon_id": "6948866",
+      "name": "Lights",
+      "font_class": "sp3781",
+      "unicode": "e62a",
+      "unicode_decimal": 58922
+    },
+    {
+      "icon_id": "6948874",
+      "name": "Musical",
+      "font_class": "sp35",
+      "unicode": "e62b",
+      "unicode_decimal": 58923
+    },
+    {
+      "icon_id": "6948881",
+      "name": "Outdoor",
+      "font_class": "sp334",
+      "unicode": "e62c",
+      "unicode_decimal": 58924
+    },
+    {
+      "icon_id": "6948884",
+      "name": "Pet",
+      "font_class": "sp73",
+      "unicode": "e62d",
+      "unicode_decimal": 58925
+    },
+    {
+      "icon_id": "6948894",
+      "name": "Repair",
+      "font_class": "sp2957",
+      "unicode": "e62e",
+      "unicode_decimal": 58926
+    },
+    {
+      "icon_id": "6948947",
+      "name": "Toys",
+      "font_class": "sp2959",
+      "unicode": "e62f",
+      "unicode_decimal": 58927
+    },
+    {
+      "icon_id": "7025554",
+      "name": "sold",
+      "font_class": "sp-sold",
+      "unicode": "e630",
+      "unicode_decimal": 58928
+    },
+    {
+      "icon_id": "7093807",
+      "name": "google",
+      "font_class": "sp-google",
+      "unicode": "e632",
+      "unicode_decimal": 58930
+    },
+    {
+      "icon_id": "7093832",
+      "name": "facebook",
+      "font_class": "sp-facebook",
+      "unicode": "e633",
+      "unicode_decimal": 58931
+    },
+    {
+      "icon_id": "7093837",
+      "name": "skype",
+      "font_class": "sp-skype",
+      "unicode": "e634",
+      "unicode_decimal": 58932
+    },
+    {
+      "icon_id": "7093842",
+      "name": "twitter",
+      "font_class": "sp-twitter",
+      "unicode": "e635",
+      "unicode_decimal": 58933
+    },
+    {
+      "icon_id": "8121970",
+      "name": "paypal",
+      "font_class": "sp-paypal",
+      "unicode": "e641",
+      "unicode_decimal": 58945
+    },
+    {
+      "icon_id": "8121984",
+      "name": "creditcard",
+      "font_class": "sp-creditcard",
+      "unicode": "e642",
+      "unicode_decimal": 58946
+    },
+    {
+      "icon_id": "9682746",
+      "name": "avatar",
+      "font_class": "sp-avatar",
+      "unicode": "e64a",
+      "unicode_decimal": 58954
+    },
+    {
+      "icon_id": "9978514",
+      "name": "jewellery",
+      "font_class": "sp991",
+      "unicode": "e64d",
+      "unicode_decimal": 58957
     }
   ]
 }
