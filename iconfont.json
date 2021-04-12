@@ -6,6 +6,41 @@
   "description": "crazysales web mobile app",
   "glyphs": [
     {
+      "icon_id": "19627574",
+      "name": "installments",
+      "font_class": "installments",
+      "unicode": "e6a8",
+      "unicode_decimal": 59048
+    },
+    {
+      "icon_id": "13266745",
+      "name": "bags",
+      "font_class": "sp109",
+      "unicode": "e676",
+      "unicode_decimal": 58998
+    },
+    {
+      "icon_id": "16483114",
+      "name": "wine",
+      "font_class": "sp931",
+      "unicode": "e6a1",
+      "unicode_decimal": 59041
+    },
+    {
+      "icon_id": "14350390",
+      "name": "history",
+      "font_class": "history",
+      "unicode": "e689",
+      "unicode_decimal": 59017
+    },
+    {
+      "icon_id": "14350421",
+      "name": "share",
+      "font_class": "share",
+      "unicode": "e68a",
+      "unicode_decimal": 59018
+    },
+    {
       "icon_id": "12235095",
       "name": "locator",
       "font_class": "locator",
@@ -172,20 +207,6 @@
       "font_class": "sp-twitter",
       "unicode": "e635",
       "unicode_decimal": 58933
-    },
-    {
-      "icon_id": "8121970",
-      "name": "paypal",
-      "font_class": "sp-paypal",
-      "unicode": "e641",
-      "unicode_decimal": 58945
-    },
-    {
-      "icon_id": "8121984",
-      "name": "creditcard",
-      "font_class": "sp-creditcard",
-      "unicode": "e642",
-      "unicode_decimal": 58946
     },
     {
       "icon_id": "9682746",
