@@ -6,6 +6,139 @@
   "description": "crazysales web mobile app",
   "glyphs": [
     {
+      "icon_id": "21485297",
+      "name": "attributes",
+      "font_class": "attributes",
+      "unicode": "e6b0",
+      "unicode_decimal": 59056
+    },
+    {
+      "icon_id": "21485298",
+      "name": "evaluate_1",
+      "font_class": "evaluate_1",
+      "unicode": "e6b1",
+      "unicode_decimal": 59057
+    },
+    {
+      "icon_id": "21485299",
+      "name": "sp-email",
+      "font_class": "sp-email",
+      "unicode": "e6b2",
+      "unicode_decimal": 59058
+    },
+    {
+      "icon_id": "21485300",
+      "name": "sort",
+      "font_class": "sort",
+      "unicode": "e6b3",
+      "unicode_decimal": 59059
+    },
+    {
+      "icon_id": "21485301",
+      "name": "bill",
+      "font_class": "bill",
+      "unicode": "e6b4",
+      "unicode_decimal": 59060
+    },
+    {
+      "icon_id": "21485302",
+      "name": "evaluate_2",
+      "font_class": "evaluate_2",
+      "unicode": "e6b5",
+      "unicode_decimal": 59061
+    },
+    {
+      "icon_id": "21485303",
+      "name": "sp-account",
+      "font_class": "sp-account",
+      "unicode": "e6b6",
+      "unicode_decimal": 59062
+    },
+    {
+      "icon_id": "21485304",
+      "name": "sp-free-shipping",
+      "font_class": "sp-free-shipping",
+      "unicode": "e6b7",
+      "unicode_decimal": 59063
+    },
+    {
+      "icon_id": "21485305",
+      "name": "sp-pailie-one",
+      "font_class": "sp-pailie-one",
+      "unicode": "e6b8",
+      "unicode_decimal": 59064
+    },
+    {
+      "icon_id": "21485306",
+      "name": "sp-message",
+      "font_class": "sp-message",
+      "unicode": "e6b9",
+      "unicode_decimal": 59065
+    },
+    {
+      "icon_id": "21485307",
+      "name": "sp-password",
+      "font_class": "sp-password",
+      "unicode": "e6ba",
+      "unicode_decimal": 59066
+    },
+    {
+      "icon_id": "21485308",
+      "name": "sp-disconnect",
+      "font_class": "sp-disconnect",
+      "unicode": "e6bb",
+      "unicode_decimal": 59067
+    },
+    {
+      "icon_id": "21485309",
+      "name": "sp-volume",
+      "font_class": "sp-volume",
+      "unicode": "e6bc",
+      "unicode_decimal": 59068
+    },
+    {
+      "icon_id": "21485310",
+      "name": "sp-nothing",
+      "font_class": "sp-nothing",
+      "unicode": "e6bd",
+      "unicode_decimal": 59069
+    },
+    {
+      "icon_id": "21485311",
+      "name": "sp-user",
+      "font_class": "sp-user",
+      "unicode": "e6be",
+      "unicode_decimal": 59070
+    },
+    {
+      "icon_id": "21485312",
+      "name": "warning",
+      "font_class": "warning",
+      "unicode": "e6bf",
+      "unicode_decimal": 59071
+    },
+    {
+      "icon_id": "21485313",
+      "name": "sp-pailie-two",
+      "font_class": "sp-pailie-two",
+      "unicode": "e6c0",
+      "unicode_decimal": 59072
+    },
+    {
+      "icon_id": "21485314",
+      "name": "sp-sales",
+      "font_class": "sp-sales",
+      "unicode": "e6c1",
+      "unicode_decimal": 59073
+    },
+    {
+      "icon_id": "21485315",
+      "name": "verifycode",
+      "font_class": "verifycode",
+      "unicode": "e6c2",
+      "unicode_decimal": 59074
+    },
+    {
       "icon_id": "19627574",
       "name": "installments",
       "font_class": "installments",
